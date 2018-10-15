@@ -1,0 +1,2 @@
+python ODMR.py
+pause
